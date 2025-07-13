@@ -3,14 +3,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#FF6363',
-        secondary: {
-          100: '#E2E2D5',
-          200: '#888883',
-        }
+        jobView: '#F2EFFF',
+        jobApplied: '#5832E6',
+        searchbar: '#F6F6F6',
+        searchbarText: '#A7A7A7',
       },
       fontFamily: {
-        body: ['Nunito']
+        body: ['Poppins']
       }
     },
   },
